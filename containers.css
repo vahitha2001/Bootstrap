@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(148, 12, 130);
+}
+
+
+div.container {
+    background-color: violet;
+}
+
+.p50 {
+    padding: 50px;
+}
