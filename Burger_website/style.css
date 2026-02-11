@@ -38,12 +38,14 @@
 .navbar-toggler {
     border: none;
     font-size: 1.25rem;
+    
 }
 
 .navbar-toggler:focus,
 .btn-close:focus {
     box-shadow: none;
     outline: none;
+    
 }
 
 .sr-only {
@@ -73,3 +75,4 @@
 .nav-link:hover {
     color: #ffbe33;
 }
+
